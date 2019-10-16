@@ -1,0 +1,2 @@
+1) перетащить datetime.datetime.now() из api в serializers
+2) понять как вытаскивать данные из dictfield
